@@ -1,4 +1,4 @@
-## Documentação test tecnico Front-End
+## Documentação test técnico Front-End
 
 Este é um aplicativo React que eu criado usando o Vite e gerenciado pelo Yarn. Ele permite que os usuários visualizem outros usuarios e detalhes do perfil deste.
 
